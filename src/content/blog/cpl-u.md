@@ -1,7 +1,7 @@
 ---
-title: 'League1 Canada alumni to feature in April women’s internationals'
-description: 'CANWNT and CANW20 are in action from April 5 to April 9, with plenty of former Pro-Am players expected to play.'
-pubDate: 'Apr 05 2024'
+title: 'At least one former L1CA player picked by every club in CPL-U SPORTS Draft'
+description: 'Players from all four competitions were selected across the Canadian Premier League U SPORTS Draft, with at least one former L1CA representative heading to every club.'
+pubDate: 'Dec 13 2023'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: 'Second post for Canada'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Mar 03 2024'
+title: 'New digital experience graphic
+New digital experience coming to League1 Canada'
+description: 'A modern website and real-time app are set to launch for League1 Canada competitions'
+pubDate: 'Mar 25 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 

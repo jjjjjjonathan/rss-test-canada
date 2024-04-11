@@ -1,7 +1,7 @@
 ---
-title: 'League1 Canada alumni to feature in April women’s internationals'
-description: 'CANWNT and CANW20 are in action from April 5 to April 9, with plenty of former Pro-Am players expected to play.'
-pubDate: 'Apr 05 2024'
+title: 'League1 Canada announces expansion to Alberta'
+description: 'League1 Canada has reached an agreement with the Alberta Soccer Association to add League1 Alberta to its national alliance of Division III Pro-Am leagues'
+pubDate: 'Dec 17 2023'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
