@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://rss-test.canada.vercel.app',
+	site: 'https://rss-test-canada.vercel.app',
 	integrations: [mdx(), sitemap()],
 });
