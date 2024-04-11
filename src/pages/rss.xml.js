@@ -9,7 +9,7 @@ export async function GET(context) {
 		description: SITE_DESCRIPTION,
 		site: context.site,
 		xmlns: {
-			media: 'https://rss-test-canada.vercel.app/'
+			media: 'http://search.yahoo.com/mrss/'
 		},
 		items: posts.map((post) => ({
 			...post.data,
@@ -17,7 +17,7 @@ export async function GET(context) {
 			customData: `<media:content
 			type="image/jpg"
 			medium="image"
-			url="${context.site}placeholder-1.jpg"
+			url="${context.site}/blog-placeholder-1.jpg"
 		/>`
 		})),
 	});
