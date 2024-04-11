@@ -8,9 +8,17 @@ export async function GET(context) {
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
 		site: context.site,
+		xmlns: {
+			media: 'https://rss-test-canada.vercel.app/'
+		},
 		items: posts.map((post) => ({
 			...post.data,
 			link: `/blog/${post.slug}/`,
+			customData: `<media:content
+			type="image/jpg"
+			medium="image"
+			url="${context.site}placeholder-1.jpg"
+		/>`
 		})),
 	});
 }
