@@ -12,5 +12,10 @@ export async function GET(context) {
 			...post.data,
 			link: `/blog/${post.slug}/`,
 		})),
+		customData: `<media:content
+			type="image/jpg"
+			medium="image"
+			url="https://rss-test-canada.vercel.app/blog-placeholder-1.jpg"
+		/>`
 	});
 }
