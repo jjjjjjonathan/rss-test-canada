@@ -16,6 +16,8 @@ export async function GET(context) {
 			link: `/blog/${post.slug}/`,
 			customData: `<media:content
 			type="image/jpg"
+			width="400"
+			height="700"
 			medium="image"
 			url="${context.site}/blog-placeholder-1.jpg"
 		/>`
